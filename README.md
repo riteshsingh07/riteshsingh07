@@ -1,7 +1,17 @@
 ## Hi there 👋
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 # 💫 About Me:
-I'm currently Serving as a Site Reliability Engineer (SRE) on a mission-critical Foreign Exchange (FX) trading platform, ensuring end-to-end trade reliability from UI booking applications to settlement systems in a 24/7 global production environment.<br>Actively managing production workloads on AWS Cloud, including Kubernetes pods, services, and microservices, monitoring system health, performance, and availability to meet strict SLA and uptime requirements.<br>Collaborating with cross-functional global teams, traders, and support groups across multiple time zones to resolve high-priority incidents, improve system reliability, and strengthen operational processes in a regulated financial environment.<br>I'm currently holding 2 year of experience working in ANZ Operation and Technology.<br>I'm actively looking for new opportunity for Cloud Job Roles such as (SRE, DevOps, Cloud).<br>I'm actively working on projects through which I gaining a lot of knowledge/experience which align with the cloud roles.<br>I would love to use my skills and learning for company's growth as well as mine.<br>
+1. **Site Reliability Engineer (SRE)** with **2 years of experience** supporting a mission-critical Foreign Exchange (FX) trading platform for **ANZ Bank**, ensuring end-to-end trade reliability from UI booking applications to downstream settlement systems in a 24/7 global production environment.
+
+2. Hands-on experience managing production workloads on AWS Cloud, including Kubernetes pods, services, and microservices, with a strong focus on system availability, performance monitoring, incident response, and SLA adherence.
+
+3. Proven ability to collaborate with cross-functional global teams, traders, and support groups across multiple time zones, effectively resolving high-priority production incidents in a regulated financial services environment.
+
+4. Actively upskilling through cloud-focused hands-on projects, strengthening expertise in SRE, DevOps, and Cloud Engineering practices, and continuously applying learnings to real-world production scenarios.
+
+5. Actively seeking Cloud Engineering opportunities in **SRE, DevOps, or Cloud roles**, with a strong motivation to leverage technical skills, operational experience, and continuous learning to drive organizational growth and reliability.
 
 
 ## 🌐 Socials:
@@ -26,4 +36,4 @@ I'm currently Serving as a Site Reliability Engineer (SRE) on a mission-critical
 ---
 [![](https://visitcount.itsvg.in/api?id=riteshsingh07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Happy Learning! **
